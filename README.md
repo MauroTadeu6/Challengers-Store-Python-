@@ -4,6 +4,7 @@ Faturmanento, Vendas por categoria de produtos, Avaliação dos Clientes, Raking
 Após Geração dos indicadores apresentar para o proprietário um relatório conclusivo de qual loja poderia ser vendida para investir em outro negócio.
 
 
+
 💻 Autor:
 →♦️Mauro Tadeu Santos
 
