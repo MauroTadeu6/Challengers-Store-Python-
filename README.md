@@ -5,7 +5,7 @@ Após Geração dos indicadores apresentar para o proprietário um relatório co
 
 
 
-<h4 align="center"> 💻 Autor:</h4>
-<h4 align="center"> →♦️Mauro Tadeu Santos </h4>
+<h5 align="center"> 💻 Autor:</h5>
+<h5 align="center"> →♦️Mauro Tadeu Santos </h5>
 
 https://www.linkedin.com/in/maurotadeu
